@@ -3,7 +3,7 @@
 # Ce script permet la suppression des fichiers temporaires du poste client sur lequel il est exécuté.
 
 # On commence par appeler les modules du système d'exploitation (variable d'environnement):
-# On récupère le processus. -> Préciser dans le read-me quel processus.
+# On récupère le processus.
 import subprocess
 import time
 import paramiko
